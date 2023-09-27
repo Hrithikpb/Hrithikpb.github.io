@@ -12,7 +12,7 @@ function Home() {
         <Particle />
         <Container className="home-content">
           <Row>
-            <Col md={5} style={{ paddingBottom: 20 }}>
+            <Col md={5} className="mx-auto" style={{ paddingTop: 20 }}>
               <img
                 src={homeLogo}
                 alt="home pic"
