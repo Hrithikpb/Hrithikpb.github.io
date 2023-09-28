@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hrithikpb.github.io/static/css/main.c9d329bd.css",
+    "main.css": "/Hrithikpb.github.io/static/css/main.e835beb5.css",
     "main.js": "/Hrithikpb.github.io/static/js/main.dbb14a2a.js",
     "static/js/787.1ed0c42c.chunk.js": "/Hrithikpb.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/Resume.pdf": "/Hrithikpb.github.io/static/media/Resume.06d0c0da1d482cebf8c7.pdf",
@@ -17,12 +17,12 @@
     "static/media/hcdr.svg": "/Hrithikpb.github.io/static/media/hcdr.989b7467171f37336fd5d6d7d629d785.svg",
     "static/media/pre.svg": "/Hrithikpb.github.io/static/media/pre.cac20fe1bf979dd9cd51.svg",
     "index.html": "/Hrithikpb.github.io/index.html",
-    "main.c9d329bd.css.map": "/Hrithikpb.github.io/static/css/main.c9d329bd.css.map",
+    "main.e835beb5.css.map": "/Hrithikpb.github.io/static/css/main.e835beb5.css.map",
     "main.dbb14a2a.js.map": "/Hrithikpb.github.io/static/js/main.dbb14a2a.js.map",
     "787.1ed0c42c.chunk.js.map": "/Hrithikpb.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9d329bd.css",
+    "static/css/main.e835beb5.css",
     "static/js/main.dbb14a2a.js"
   ]
 }
