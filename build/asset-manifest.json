@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44cd51bd.css",
+    "main.js": "/static/js/main.d85b5433.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/static/media/Resume.06d0c0da1d482cebf8c7.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.242c5025d67512851438.jpg",
+    "static/media/logo.png": "/static/media/logo.04931de0b06abefa752e.png",
+    "static/media/churn.svg": "/static/media/churn.16fe4c10f1e3bd388a4f1fe1f124ae7b.svg",
+    "static/media/rental.svg": "/static/media/rental.9e1f0d5280972ded114fd69944f11821.svg",
+    "static/media/avatar.svg": "/static/media/avatar.09a3a47879eccd1b11eb09fe5179c4b5.svg",
+    "static/media/about.svg": "/static/media/about.2060eb5038b2631cdbf1cae368f57317.svg",
+    "static/media/custy.svg": "/static/media/custy.d851d31f68db8ec1002ad4201cf984dc.svg",
+    "static/media/ar.svg": "/static/media/ar.123ce22119b64e2b1720e791a6799fbc.svg",
+    "static/media/pd.svg": "/static/media/pd.540db3cf2a9cd5f864121c47ff66a656.svg",
+    "static/media/home-main.svg": "/static/media/home-main.417a40b0c70646ace0ce8fe8a94b6a93.svg",
+    "static/media/hcdr.svg": "/static/media/hcdr.989b7467171f37336fd5d6d7d629d785.svg",
+    "static/media/pre.svg": "/static/media/pre.cac20fe1bf979dd9cd51.svg",
+    "index.html": "/index.html",
+    "main.44cd51bd.css.map": "/static/css/main.44cd51bd.css.map",
+    "main.d85b5433.js.map": "/static/js/main.d85b5433.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44cd51bd.css",
+    "static/js/main.d85b5433.js"
+  ]
+}
