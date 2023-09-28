@@ -132,7 +132,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #be50f4 !important;
+  background-color: #FF4500 !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -336,7 +336,7 @@ button:focus {
   .Typewriter__wrapper {
     font-size: 1.4em !important;
     font-weight: 500 !important;
-    position: absolute !important;
+    /*position: absolute !important;*/
   }
   .Typewriter__cursor {
     display: none !important;
